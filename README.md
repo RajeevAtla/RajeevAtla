@@ -8,6 +8,6 @@ A bit about me:
 - ⚡ Fun fact: I can write with both hands!
 - 🏃‍♂️ Running in my spare time!
 
-![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true&show_icons=true)
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true&show_icons=true&theme=github_dark)
 
 ![Rajeev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RajeevAtla)
