@@ -3,6 +3,7 @@
 I'm Rajeev Atla.
 A bit about me:
 
+- 📚 Currently triple majoring in CS, Computer Engineering, and Stats/Math at Rutgers (Class of 2025)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can write with both hands!
 
