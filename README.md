@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/rajeev-atla/)
-[![Facebook](https://img.shields.io/badge/Facebook-blueviolet?style=flat&logo=facebook&labelColor=blueviolet)](https://facebook.com/rajeevratla)
-[![Website](https://img.shields.io/badge/Website-9cf?style=flat)](https://rajeevatla.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://linkedin.com/in/rajeev-atla/)
+[![Facebook](https://img.shields.io/badge/Facebook-blueviolet?style=flat-square&logo=facebook&labelColor=blueviolet)](https://facebook.com/rajeevratla)
+[![Website](https://img.shields.io/badge/Website-9cf?style=flat-square)](https://rajeevatla.com)
 
 I'm Rajeev Atla.
 A bit about me:
