@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://linkedin.com/in/rajeev-atla/)
 [![Facebook](https://img.shields.io/badge/Facebook-blueviolet?style=flat-square&logo=facebook&labelColor=blueviolet)](https://facebook.com/rajeevratla)
 [![Website](https://img.shields.io/badge/Website-9cf?style=flat-square)](https://rajeevatla.com)
+[![Resume](https://img.shields.io/badge/Resume-green?style=flat-square)](https://rajeevatla.com/resume/resume.pdf)
 
 I'm Rajeev Atla.
 A bit about me:
