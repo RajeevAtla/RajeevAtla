@@ -11,3 +11,5 @@ A bit about me:
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub+Stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeevAtla&theme=github_dark&hide_border=true&langs_count=10)
+
+![](https://hit.yhype.me/github/profile?user_id=47089451)
