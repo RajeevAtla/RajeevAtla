@@ -9,4 +9,5 @@ A bit about me:
 - 🏃‍♂️ Running in my spare time!
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true)
+
 ![Rajeev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RajeevAtla)
