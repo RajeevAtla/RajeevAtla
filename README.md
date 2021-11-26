@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/rajeev-atla/)
+[![Facebook](https://img.shields.io/badge/Facebook-blueviolet?style=flat&logo=facebook&labelColor=blueviolet)](https://facebook.com/rajeevratla)
 
 I'm Rajeev Atla.
 A bit about me:
