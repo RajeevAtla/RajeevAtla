@@ -10,4 +10,4 @@ A bit about me:
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub+Stats)
 
-![Rajeev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RajeevAtla)
+
