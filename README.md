@@ -11,6 +11,7 @@ A bit about me:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can write with both hands!
 - 🏃‍♂️ Running in my spare time!
+- :crown: Broadly interested in quantitative finance, data science, and tech
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub+Stats)
 
