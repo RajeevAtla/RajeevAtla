@@ -18,6 +18,6 @@ A bit about me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeevAtla&theme=github_dark&hide_border=true&langs_count=10)
 
 
-![Commit Graph](https://github-contribution-graph.ez4o.com/?username=RajeevAtla)
+![Commit Graph](https://github-contribution-graph.ez4o.com/?username=RajeevAtla&last_n_days=365)
 
 ![](https://hit.yhype.me/github/profile?user_id=47089451)
