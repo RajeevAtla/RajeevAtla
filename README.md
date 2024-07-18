@@ -7,7 +7,7 @@
 I'm Rajeev Atla.
 A bit about me:
 
-- 📚 Triple majoring in CS, Computer Engineering, and Stats/Math at Rutgers - New Brunswick (Class of 2025)
+- 📚 Triple majoring in CS, Computer Engineering, and Data Science at Rutgers - New Brunswick (Class of 2025)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can write with both hands!
 - 🏃‍♂️ Running in my spare time!
