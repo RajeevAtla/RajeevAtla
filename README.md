@@ -1,17 +1,16 @@
 ### Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://linkedin.com/in/rajeev-atla/)
-[![Facebook](https://img.shields.io/badge/Facebook-blueviolet?style=flat-square&logo=facebook&labelColor=blueviolet)](https://facebook.com/rajeevratla)
 [![Website](https://img.shields.io/badge/Website-9cf?style=flat-square)](https://rajeevatla.com)
 [![Resume](https://img.shields.io/badge/Resume-green?style=flat-square)](https://rajeevatla.com/resume/resume.pdf)
 
 I'm Rajeev Atla.
 A bit about me:
 
-- 📚 Triple majoring in CS, Computer Engineering, and Data Science at Rutgers - New Brunswick (Class of 2025)
+- 🦿 Studying AI/ML (Master's) at Rutgers
+- 📚 Triple majored in CS, Computer Engineering, and Data Science at Rutgers - New Brunswick (Class of 2025)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can write with both hands!
 - 🏃‍♂️ Running in my spare time!
-- :crown: Broadly interested in quantitative finance, data science, and tech
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeevAtla&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub+Stats)
 
