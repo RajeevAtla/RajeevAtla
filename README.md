@@ -8,7 +8,6 @@ A bit about me:
 
 - 🦿 Studying AI/ML (Master's) at Rutgers
 - 📚 Triple majored in CS, Computer Engineering, and Data Science at Rutgers - New Brunswick (Class of 2025)
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can write with both hands!
 - 🏃‍♂️ Running in my spare time!
 
